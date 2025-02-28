@@ -175,4 +175,4 @@ The property management software market is experiencing significant growth and h
 No reseach done, but I feel theres is a big market for the web app based on experince interacting with a few and house hunting experince within Nirobi and Nakuru
 
 ## 13. How can understanding market trends inform your software’s positioning and development?
-Most rentals ive been in Nairobi still use manual system for managing their tenants
+Understanding market trends helps you tailor your software to current needs, stay competitive, and innovate for the future. It guides you in developing features that attract users and ensures your software remains relevant and successful.
