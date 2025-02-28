@@ -174,7 +174,27 @@ Measurable Outcomes: Allows for the creation of measurable goals to track progre
 By clearly defining the problem, the development team can create a solution that directly addresses the core issue, leading to a more effective and successful outcome.
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 
-example, A rental management web app for a client :  Imagine a tool that turns the chaos of managing rental properties into a streamlined and organized process. My software solution is designed to simplify your client’s life by providing an easy-to-use platform to handle all aspects of property management. From tracking tenant information and payments to scheduling maintenance and generating financial reports, it’s like having a personal assistant dedicated to keeping everything in order. No technical jargon—just a powerful, intuitive solution to make property management a breeze
+Example, A rental management web app for a client :  Imagine a tool that turns the chaos of managing rental properties into a streamlined and organized process. My software solution is designed to simplify your client’s life by providing an easy-to-use platform to handle all aspects of property management. From tracking tenant information and payments to scheduling maintenance and generating financial reports, it’s like having a personal assistant dedicated to keeping everything in order. No technical jargon—just a powerful, intuitive solution to make property management a breeze
 ## 11. What are the main features or functionalities that make your software stand out?
+
+Comprehensive Payment Management: Efficiently track and manage all payments, ensuring that nothing slips through the cracks.
+
+SMS Functionality: Instantly notify tenants with payment reminders, confirmations, and updates through SMS, enhancing communication and reducing late payments.
+
+Payment Reminder Alerts: Automated alerts and notifications for upcoming and overdue payments, keeping tenants informed and ensuring timely collections.
+
+User-Friendly Dashboard: A visually appealing and intuitive dashboard that provides a clear overview of all payment-related activities, including due dates, pending payments, and transaction history.
+
+Reporting and Analytics: Generate detailed reports and analytics to gain insights into payment trends, identify patterns, and make data-driven decisions.
+
+Secure Online Payments: Enable tenants to make secure online payments through various methods, including credit/debit cards and bank transfers.
+
+Tenant Portal: Provide tenants with a dedicated portal where they can view their payment history, upcoming due dates, and easily make payments.
+
+Integration Capabilities: Seamlessly integrate with other property management tools and software to streamline operations and ensure data consistency.
 ## 12. What data is available regarding the market size and growth potential for your software?
+
+No reseach done, but I feel theres is a big market for the web app
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
+Most rentals ive been in Nairobi still use manual system for managing their tenants
