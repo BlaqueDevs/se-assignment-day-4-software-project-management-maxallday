@@ -104,44 +104,22 @@ User Acceptance Testing: Conduct user acceptance testing (UAT) to ensure the sof
 Performance Testing: Test the software for performance under various conditions to ensure it can handle expected loads.
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Defining the project scope is crucial for successful project planning as it sets clear boundaries and objectives, ensuring everyone is aligned and focused on what needs to be delivered. It helps in efficient resource allocation, risk identification, and performance measurement. A Work Breakdown Structure (WBS) breaks down the project into smaller, manageable tasks, making it easier to plan, schedule, allocate resources, and track progress. It improves communication and helps identify potential risks, ensuring a well-organized and efficient project execution.
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 
-Defining Project Scope: It helps ensure that all stakeholders have a clear understanding of what the project will deliver and what it will not. This clarity aids in preventing scope creep, aligning expectations, and providing a roadmap for project activities.
+Developing a detailed project schedule offers several benefits:
 
-Work Breakdown Structure (WBS): A WBS is a hierarchical decomposition of the total scope of work to accomplish project objectives. It breaks down the project into smaller, more manageable components.
+Clear Timeline: It provides a clear timeline for project activities, ensuring everyone knows what needs to be done and by when.
 
-Why WBS is Useful:
+Resource Management: Helps allocate resources efficiently, ensuring that tasks are completed on time without overburdening team members.
 
-Clarity: Provides clear and structured project tasks.
+Milestone Tracking: Enables tracking of key milestones and deadlines, helping to keep the project on track.
 
-Planning: Facilitates detailed project planning and scheduling.
+Risk Management: Allows for the identification of potential risks and the development of mitigation strategies.
 
-Responsibility: Helps assign tasks to team members.
+Improved Communication: Enhances communication among team members and stakeholders by providing a clear overview of the project plan.
 
-Monitoring: Aids in tracking progress and performance.
-
-Detailed Project Schedule and Gantt Charts
-Benefits of Developing a Detailed Project Schedule:
-
-Timeliness: Ensures tasks are completed on time.
-
-Resource Allocation: Optimizes the use of resources.
-
-Risk Management: Identifies potential delays and risks early.
-
-Accountability: Assigns responsibilities clearly.
-
-Gantt Charts: These visual tools help in scheduling and tracking project timelines. They illustrate the start and finish dates of project elements, showing the sequence and duration of tasks.
-
-How Gantt Charts Assist:
-
-Visualization: Provides a visual timeline of the project.
-
-Tracking: Monitors progress and identifies delays.
-
-Coordination: Helps coordinate tasks and dependencies.
-
-Communication: Communicates the schedule to stakeholders clearly.
+Gantt charts assist in this process by visually representing the project schedule. They display tasks along a timeline, showing start and end dates, dependencies, and progress. This visual representation makes it easy to see how tasks overlap, identify critical paths, and ensure that the project stays on track. Gantt charts provide a clear and intuitive way to manage project schedules, improving organization and efficiency.
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 Core Issues Addressed by Software:
 
@@ -193,8 +171,8 @@ Tenant Portal: Provide tenants with a dedicated portal where they can view their
 
 Integration Capabilities: Seamlessly integrate with other property management tools and software to streamline operations and ensure data consistency.
 ## 12. What data is available regarding the market size and growth potential for your software?
-
-No reseach done, but I feel theres is a big market for the web app
+The property management software market is experiencing significant growth and has a promising future. 
+No reseach done, but I feel theres is a big market for the web app based on experince interacting with a few and house hunting experince within Nirobi and Nakuru
 
 ## 13. How can understanding market trends inform your software’s positioning and development?
 Most rentals ive been in Nairobi still use manual system for managing their tenants
